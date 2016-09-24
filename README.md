@@ -11,7 +11,9 @@
 
 > 2ndweek
 
-&emsp;&emsp;Simulate WSGI-Server
+&emsp;&emsp;Simulate WSGI-Server<br>
+
+&emsp;&emsp;```python server.py app.app 3333```
 
 >14301056
 
