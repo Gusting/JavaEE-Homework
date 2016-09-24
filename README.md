@@ -9,6 +9,10 @@
  
 &emsp;&emsp;<[1stweek/1430156.py](https://github.com/Gusting/JavaEE-Homework/blob/master/1stweek/14301056.py)> The last committed file is to submit.
 
+> 2ndweek
+
+&emsp;&emsp;Simulate WSGI-Server
+
 >14301056
 
 &emsp;&emsp;The Folder for Update-Homework.
